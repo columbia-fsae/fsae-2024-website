@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fsae-2024-website/static/css/main.85be4519.css",
-    "main.js": "/fsae-2024-website/static/js/main.fc1c2860.js",
-    "static/js/453.be79a694.chunk.js": "/fsae-2024-website/static/js/453.be79a694.chunk.js",
-    "index.html": "/fsae-2024-website/index.html",
-    "main.85be4519.css.map": "/fsae-2024-website/static/css/main.85be4519.css.map",
-    "main.fc1c2860.js.map": "/fsae-2024-website/static/js/main.fc1c2860.js.map",
-    "453.be79a694.chunk.js.map": "/fsae-2024-website/static/js/453.be79a694.chunk.js.map"
+    "main.css": "/2024-website/static/css/main.2261929f.css",
+    "main.js": "/2024-website/static/js/main.d4dd9bc1.js",
+    "static/js/453.be79a694.chunk.js": "/2024-website/static/js/453.be79a694.chunk.js",
+    "index.html": "/2024-website/index.html",
+    "main.2261929f.css.map": "/2024-website/static/css/main.2261929f.css.map",
+    "main.d4dd9bc1.js.map": "/2024-website/static/js/main.d4dd9bc1.js.map",
+    "453.be79a694.chunk.js.map": "/2024-website/static/js/453.be79a694.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85be4519.css",
-    "static/js/main.fc1c2860.js"
+    "static/css/main.2261929f.css",
+    "static/js/main.d4dd9bc1.js"
   ]
 }
