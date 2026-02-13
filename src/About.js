@@ -48,7 +48,7 @@ function About() {
   ];
 
   const eboard = [
-    { name: 'Calvin Moon', title: 'President', image: `${process.env.PUBLIC_URL}/headshots/Calvin.jpg` },
+    { name: 'Godwill Agbehonou', title: 'President', image: `${process.env.PUBLIC_URL}/headshots/Godwill.jpg` },
     { name: 'Godwill Agbehonou', title: 'VP of Techincal Operations', image: `${process.env.PUBLIC_URL}/headshots/Godwill.jpg` },
     { name: 'Grace Zhang', title: 'VP of Business Affairs', image: `${process.env.PUBLIC_URL}/headshots/Grace.jpg` },
     { name: 'Nika Zamyatina', title: 'Chief Mechanical Engineer', image: `${process.env.PUBLIC_URL}/headshots/Calvin.jpg` },
