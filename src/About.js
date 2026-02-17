@@ -55,7 +55,7 @@ function About() {
     { name: 'Luke Early', title: 'Chief Electrical Engineer', image: `${process.env.PUBLIC_URL}/headshots/Godwill.jpg` },
     { name: 'Tiller Van Doren', title: 'Chief Manufacturing Engineer', image: `${process.env.PUBLIC_URL}/headshots/Godwill.jpg` },
     { name: 'Ricardo Victorio', title: 'Vehicle Dynamics Chief', image: `${process.env.PUBLIC_URL}/headshots/Ricardo.jpg` },
-    { name: 'Samad Sulyman', title: 'Powertrain Chief', image: `${process.env.PUBLIC_URL}/headshots/Godwill.jpg` },
+    { name: 'Samad Sulyman', title: 'Powertrain Chief', image: `${process.env.PUBLIC_URL}/headshots/Samad.jpg` },
     { name: 'Rogelio Sada', title: 'Controls Chief', image: `${process.env.PUBLIC_URL}/headshots/Rogelio.jpg` },
     { name: 'Lan Huse', title: 'High Voltage Chief', image: `${process.env.PUBLIC_URL}/headshots/Godwill.jpg` },
     { name: 'Sarah Hagan', title: 'Low Voltage Chief', image: `${process.env.PUBLIC_URL}/headshots/Sarah.jpg` },
