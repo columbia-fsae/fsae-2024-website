@@ -48,22 +48,22 @@ function About() {
   ];
 
   const eboard = [
-    { name: 'Godwill Agbehonou', title: 'President', image: `${process.env.PUBLIC_URL}/headshots/Godwill.jpg` },
-    { name: 'Rosnel Leyva-Cortes', title: 'VP of Techincal Operations', image: `${process.env.PUBLIC_URL}/headshots/Rosnel.jpg` },
+    { name: 'Godwill Agbehonou', title: 'President', image: `${process.env.PUBLIC_URL}/headshots/Godwill.JPG` },
+    { name: 'Rosnel Leyva-Cortes', title: 'VP of Techincal Operations', image: `${process.env.PUBLIC_URL}/headshots/Rosnel.JPG` },
     { name: 'Ren Kirchmann', title: 'VP of Business Affairs', image: `${process.env.PUBLIC_URL}/headshots/Ren.jpg` },
-    { name: 'William Ostling', title: 'Chief Mechanical Engineer', image: `${process.env.PUBLIC_URL}/headshots/Will.jpg` },
-    { name: 'Luke Early', title: 'Chief Electrical Engineer', image: `${process.env.PUBLIC_URL}/headshots/Luke.jpg` },
-    { name: 'Tiller Van Doren', title: 'Chief Manufacturing Engineer', image: `${process.env.PUBLIC_URL}/headshots/Tiller.jpg` },
-    { name: 'Ricardo Victorio', title: 'Vehicle Dynamics Chief', image: `${process.env.PUBLIC_URL}/headshots/Ricardo.jpg` },
-    { name: 'Samad Sulyman', title: 'Powertrain Chief', image: `${process.env.PUBLIC_URL}/headshots/Samad.jpg` },
-    { name: 'Rogelio Sada', title: 'Controls Chief', image: `${process.env.PUBLIC_URL}/headshots/Rogelio.jpg` },
-    { name: 'Lan Huse', title: 'High Voltage Chief', image: `${process.env.PUBLIC_URL}/headshots/Lan.jpg` },
-    { name: 'Sarah Hagan', title: 'Low Voltage Chief', image: `${process.env.PUBLIC_URL}/headshots/Sarah.jpg` },
-    { name: 'Martin Lyubomirov Lozanov', title: 'Frame/Body/Aero Chief', image: `${process.env.PUBLIC_URL}/headshots/Martin.jpg` },
+    { name: 'William Ostling', title: 'Chief Mechanical Engineer', image: `${process.env.PUBLIC_URL}/headshots/Will.JPG` },
+    { name: 'Luke Early', title: 'Chief Electrical Engineer', image: `${process.env.PUBLIC_URL}/headshots/Luke.JPG` },
+    { name: 'Tiller Van Doren', title: 'Chief Manufacturing Engineer', image: `${process.env.PUBLIC_URL}/headshots/Tiller.JPG` },
+    { name: 'Ricardo Victorio', title: 'Vehicle Dynamics Chief', image: `${process.env.PUBLIC_URL}/headshots/Ricardo.JPG` },
+    { name: 'Samad Sulyman', title: 'Powertrain Chief', image: `${process.env.PUBLIC_URL}/headshots/Samad.JPG` },
+    { name: 'Rogelio Sada', title: 'Controls Chief', image: `${process.env.PUBLIC_URL}/headshots/Rogelio.JPG` },
+    { name: 'Lan Huse', title: 'High Voltage Chief', image: `${process.env.PUBLIC_URL}/headshots/Lan.JPG` },
+    { name: 'Sarah Hagan', title: 'Low Voltage Chief', image: `${process.env.PUBLIC_URL}/headshots/Sarah.JPG` },
+    { name: 'Martin Lyubomirov Lozanov', title: 'Frame/Body/Aero Chief', image: `${process.env.PUBLIC_URL}/headshots/Martin.JPG` },
     { name: 'Jan Espelien', title: 'Electrical Engineering Treasurer', image: `${process.env.PUBLIC_URL}/headshots/Jan.png` },
     { name: 'Carina Totty', title: 'Mechanical Engineering Treasurer', image: `${process.env.PUBLIC_URL}/headshots/Carina.png` },
-    { name: 'Kate Zhu', title: 'Secretary', image: `${process.env.PUBLIC_URL}/headshots/Kate.jpg` },
-    { name: 'Ava Markwick', title: 'Social Chair', image: `${process.env.PUBLIC_URL}/headshots/Ava.jpg` },
+    { name: 'Kate Zhu', title: 'Secretary', image: `${process.env.PUBLIC_URL}/headshots/Kate.JPG` },
+    { name: 'Ava Markwick', title: 'Social Chair', image: `${process.env.PUBLIC_URL}/headshots/Ava.JPG` },
   ];
 
   const faculty = [
