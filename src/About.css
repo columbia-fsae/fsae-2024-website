@@ -271,6 +271,7 @@
     max-width: 220px;
     height: 240px;
     object-fit: cover;
+    object-position: center 10%;
     border-radius: 12px;
     margin-bottom: 12px;
   }
