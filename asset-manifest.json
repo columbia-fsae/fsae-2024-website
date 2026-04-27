@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fsae-2024-website/static/css/main.7207a873.css",
-    "main.js": "/fsae-2024-website/static/js/main.a4d7a96f.js",
+    "main.js": "/fsae-2024-website/static/js/main.570b1635.js",
     "static/js/453.be79a694.chunk.js": "/fsae-2024-website/static/js/453.be79a694.chunk.js",
     "index.html": "/fsae-2024-website/index.html",
     "main.7207a873.css.map": "/fsae-2024-website/static/css/main.7207a873.css.map",
-    "main.a4d7a96f.js.map": "/fsae-2024-website/static/js/main.a4d7a96f.js.map",
+    "main.570b1635.js.map": "/fsae-2024-website/static/js/main.570b1635.js.map",
     "453.be79a694.chunk.js.map": "/fsae-2024-website/static/js/453.be79a694.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7207a873.css",
-    "static/js/main.a4d7a96f.js"
+    "static/js/main.570b1635.js"
   ]
 }
